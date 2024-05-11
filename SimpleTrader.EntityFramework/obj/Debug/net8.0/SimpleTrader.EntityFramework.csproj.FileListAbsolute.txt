@@ -1,0 +1,17 @@
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.AssemblyInfo.cs
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.csproj.AssemblyReference.cache
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.deps.json
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.runtimeconfig.json
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.dll
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.pdb
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.Domain.dll
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.Domain.pdb
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTr.A5681FE2.Up2Date
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.dll
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\refint\SimpleTrader.EntityFramework.dll
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.pdb
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.genruntimeconfig.cache
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\ref\SimpleTrader.EntityFramework.dll
