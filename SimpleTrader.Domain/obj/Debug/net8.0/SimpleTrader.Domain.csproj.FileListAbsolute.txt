@@ -9,3 +9,4 @@ D:\Workspace\WPF\SimpleTrader\SimpleTrader.Domain\obj\Debug\net8.0\SimpleTrader.
 D:\Workspace\WPF\SimpleTrader\SimpleTrader.Domain\obj\Debug\net8.0\refint\SimpleTrader.Domain.dll
 D:\Workspace\WPF\SimpleTrader\SimpleTrader.Domain\obj\Debug\net8.0\SimpleTrader.Domain.pdb
 D:\Workspace\WPF\SimpleTrader\SimpleTrader.Domain\obj\Debug\net8.0\ref\SimpleTrader.Domain.dll
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.Domain\obj\Debug\net8.0\SimpleTrader.Domain.sourcelink.json

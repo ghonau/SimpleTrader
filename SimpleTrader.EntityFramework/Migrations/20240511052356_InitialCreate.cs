@@ -1,11 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
 namespace SimpleTrader.EntityFramework.Migrations
 {
     /// <inheritdoc />
-    public partial class NewMigrations : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -17,7 +18,9 @@ namespace SimpleTrader.EntityFramework.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Username = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Username = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    DateJoined = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -54,7 +57,8 @@ namespace SimpleTrader.EntityFramework.Migrations
                     IsPurchase = table.Column<bool>(type: "bit", nullable: false),
                     Stock_Symbol = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Stock_PricePurchase = table.Column<double>(type: "float", nullable: false),
-                    ShareAmount = table.Column<int>(type: "int", nullable: false)
+                    ShareAmount = table.Column<int>(type: "int", nullable: false),
+                    DateProcessed = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {

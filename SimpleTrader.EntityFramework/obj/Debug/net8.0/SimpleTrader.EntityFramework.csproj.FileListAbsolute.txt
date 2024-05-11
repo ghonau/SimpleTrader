@@ -15,3 +15,4 @@ D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\refi
 D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.pdb
 D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.genruntimeconfig.cache
 D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\ref\SimpleTrader.EntityFramework.dll
+D:\Workspace\WPF\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.sourcelink.json

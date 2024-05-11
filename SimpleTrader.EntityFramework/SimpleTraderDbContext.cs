@@ -16,17 +16,12 @@ namespace SimpleTrader.EntityFramework
         public DbSet<AssetTransaction> AssetTransactions { get; set; }
 
 
+        public SimpleTraderDbContext(DbContextOptions dbContextOptions) : base(dbContextOptions) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<AssetTransaction>().OwnsOne(a => a.Stock); 
             base.OnModelCreating(modelBuilder);
-        }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-
-            optionsBuilder.UseSqlServer("Data Source=DESKTOP-2BV8UEP;Initial Catalog=SimpleTraderDB;User ID=sa;Password=LocalAdmin@123;TrustServerCertificate=true"); 
-            base.OnConfiguring(optionsBuilder);
-        }
+        }       
 
     }
 }
